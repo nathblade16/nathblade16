@@ -1,1 +1,1 @@
-hello to start off with please go to *unkown* to start off with the hacks
+bookmark what is inside bookmarklet.txt to install the hack to your browser
