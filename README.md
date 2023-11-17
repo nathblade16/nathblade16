@@ -1,6 +1,6 @@
 # Hi, welecome to my profile
 
-```
+```json
 {
   "age": "12",
   "country": "australia",
