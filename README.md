@@ -2,7 +2,6 @@
 
 ```json
 {
-  "age": "12",
   "country": "australia",
   "hobbies": ["coding", "tech", "lock picking", "making exploits for school"],
   "education": "year 7",
