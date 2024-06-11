@@ -5,7 +5,6 @@
   "hobbies": ["coding", "tech", "lock picking", "making exploits for school"],
   "education": "year 8",
   "age": 13,
-  "desktop os": "arch linux(btw)",
-  "laptop os": "fedora 40"
+  "os": "arch linux(btw)"
 }
 ```
