@@ -3,8 +3,8 @@
 {
   "country": "australia",
   "hobbies": ["coding", "tech", "lock picking", "making exploits for school"],
-  "education": "year 8",
-  "age": 13,
-  "os": "arch linux(btw)"
+  "education": "year 9",
+  "age": 14,
+  "os": "steamOS"
 }
 ```
